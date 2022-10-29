@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Nitin Kumar Srivastava</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://www.dsdcindia.com/uploads/slider/slider%20(2).gif" alt="suresh5189" width="600" align="right"/> </p>
+<p align="left"> <img src="https://www.dsdcindia.com/uploads/slider/slider%20(2).gif" alt="suresh5189" width="500" align="right"/> </p>
 
 - 🌱 I’m currently learning **React**
 
